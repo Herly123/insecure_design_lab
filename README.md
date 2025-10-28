@@ -31,7 +31,7 @@ sudo apt update
 sudo apt install python3-pip sqlite3 -y
 python3 -m pip install -r requirements.txt  # si creas requirements
 
-##📁 Estructura del proyecto
+##📁 Estructura del proyecto (para visualizarla mejor, abrir el README.md)
 
 insecure_design_lab/
 ├── code/
