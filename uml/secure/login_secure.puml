@@ -1,0 +1,35 @@
+@startuml
+title Diseño seguro - Autenticación con hash, bloqueo y logging
+
+actor Usuario
+participant "App Segura" as App
+participant "Base de datos (usuarios + hash + salt)" as DB
+participant "Almacén Lockout (Redis o SQLite)" as Lockout
+participant "Registro de logs (auth.log)" as Log
+
+Usuario -> App : Ingresar credenciales
+App -> DB : Obtener hash y salt del usuario
+App -> App : Calcular PBKDF2(contraseña, salt)
+App -> App : Comparar hash calculado
+App -> Lockout : Verificar intentos fallidos recientes
+
+alt Autenticación exitosa
+  App -> Lockout : Reiniciar contador
+  App -> Log : Registrar acceso exitoso
+  App --> Usuario : Bienvenido
+else Intento fallido
+  App -> Lockout : Incrementar contador
+  App -> Log : Registrar intento fallido
+  Lockout -> Lockout : Bloqueo temporal tras N fallos
+  App --> Usuario : Usuario bloqueado o credenciales incorrectas
+end
+
+note right of App
+Mejoras implementadas:
+- Hash + Salt (PBKDF2)
+- Bloqueo temporal con TTL
+- Logging detallado
+- Protección contra fuerza bruta
+end note
+@enduml
+

@@ -1,0 +1,360 @@
+2025-10-27 21:39:33,583 INFO db_lockout: habilitado via carga por ruta (/home/herly/insecure_design_lab/code/secure/db_lockout.py)
+2025-10-27 21:39:33,819 INFO Login exitoso para 'admin'
+2025-10-27 21:39:33,913 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-27 21:39:33,917 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 21:39:33,917 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-27 21:39:33,995 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-27 21:39:33,999 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 21:39:34,078 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-27 21:39:34,082 WARNING Usuario 'admin' bloqueado hasta 1761619179.0789635 (epoch)
+2025-10-27 21:39:34,082 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 21:39:34,083 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761619179.0789635
+2025-10-27 21:39:34,084 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761619179.0789635
+2025-10-27 21:39:34,085 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761619179.0789635
+2025-10-27 21:39:34,085 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761619179.0789635
+2025-10-27 21:39:34,086 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761619179.0789635
+2025-10-27 21:39:34,087 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761619179.0789635
+2025-10-27 21:39:34,087 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 21:39:34,092 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 21:39:34,096 WARNING Usuario 'attacker' bloqueado hasta 1761619179.092992 (epoch)
+2025-10-27 21:39:34,097 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761619179.092992
+2025-10-27 21:39:34,098 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761619179.092992
+2025-10-27 21:39:40,099 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 22:33:17,782 INFO db_lockout: habilitado via carga por ruta (/home/herly/insecure_design_lab/code/secure/db_lockout.py)
+2025-10-27 22:33:17,956 INFO Login exitoso para 'admin'
+2025-10-27 22:33:18,026 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-27 22:33:18,030 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 22:33:18,030 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-27 22:33:18,089 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-27 22:33:18,092 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 22:33:18,151 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-27 22:33:18,155 WARNING Usuario 'admin' bloqueado hasta 1761622403.1516466 (epoch)
+2025-10-27 22:33:18,155 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 22:33:18,155 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622403.1516466
+2025-10-27 22:33:18,156 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622403.1516466
+2025-10-27 22:33:18,157 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622403.1516466
+2025-10-27 22:33:18,158 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622403.1516466
+2025-10-27 22:33:18,159 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622403.1516466
+2025-10-27 22:33:18,159 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622403.1516466
+2025-10-27 22:33:18,160 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 22:33:18,163 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 22:33:18,166 WARNING Usuario 'attacker' bloqueado hasta 1761622403.1637807 (epoch)
+2025-10-27 22:33:18,166 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761622403.1637807
+2025-10-27 22:33:18,167 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761622403.1637807
+2025-10-27 22:33:24,177 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 22:34:46,275 INFO db_lockout: habilitado via carga por ruta (/home/herly/insecure_design_lab/code/secure/db_lockout.py)
+2025-10-27 22:34:46,459 INFO Login exitoso para 'admin'
+2025-10-27 22:34:46,523 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-27 22:34:46,527 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 22:34:46,527 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-27 22:34:46,586 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-27 22:34:46,590 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 22:34:46,649 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-27 22:34:46,653 WARNING Usuario 'admin' bloqueado hasta 1761622491.6501024 (epoch)
+2025-10-27 22:34:46,654 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-27 22:34:46,654 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622491.6501024
+2025-10-27 22:34:46,655 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622491.6501024
+2025-10-27 22:34:46,656 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622491.6501024
+2025-10-27 22:34:46,657 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622491.6501024
+2025-10-27 22:34:46,658 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622491.6501024
+2025-10-27 22:34:46,659 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761622491.6501024
+2025-10-27 22:34:46,659 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 22:34:46,662 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-27 22:34:46,666 WARNING Usuario 'attacker' bloqueado hasta 1761622491.6627965 (epoch)
+2025-10-27 22:34:46,666 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761622491.6627965
+2025-10-27 22:34:46,667 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761622491.6627965
+2025-10-27 22:34:52,669 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:16:48,702 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:16:48,892 INFO Login exitoso para 'admin'
+2025-10-28 04:16:48,961 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:16:48,965 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:16:48,965 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-28 04:16:49,024 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-28 04:16:49,028 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:16:49,069 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-28 04:16:49,072 WARNING Usuario 'admin' bloqueado hasta 1761625014.0698905 (epoch)
+2025-10-28 04:16:49,073 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:16:49,073 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625014.0698905
+2025-10-28 04:16:49,074 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625014.0698905
+2025-10-28 04:16:49,075 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625014.0698905
+2025-10-28 04:16:49,075 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625014.0698905
+2025-10-28 04:16:49,076 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625014.0698905
+2025-10-28 04:16:49,076 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625014.0698905
+2025-10-28 04:16:49,077 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:16:49,079 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:16:49,082 WARNING Usuario 'attacker' bloqueado hasta 1761625014.079963 (epoch)
+2025-10-28 04:16:49,082 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625014.079963
+2025-10-28 04:16:49,082 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625014.079963
+2025-10-28 04:16:55,084 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:18:45,937 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:19:07,325 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:19:07,338 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:19:11,913 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:19:49,948 INFO Login exitoso para 'admin'
+2025-10-28 04:21:33,608 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:23:11,586 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:23:11,710 INFO Login exitoso para 'admin'
+2025-10-28 04:23:11,754 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:23:11,766 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:23:11,767 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-28 04:23:11,809 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-28 04:23:11,812 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:23:11,854 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-28 04:23:11,857 WARNING Usuario 'admin' bloqueado hasta 1761625396.8543026 (epoch)
+2025-10-28 04:23:11,857 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:23:11,858 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625396.8543026
+2025-10-28 04:23:11,859 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625396.8543026
+2025-10-28 04:23:11,859 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625396.8543026
+2025-10-28 04:23:11,859 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625396.8543026
+2025-10-28 04:23:11,860 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625396.8543026
+2025-10-28 04:23:11,861 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625396.8543026
+2025-10-28 04:23:11,863 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:23:11,867 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:23:11,869 WARNING Usuario 'attacker' bloqueado hasta 1761625396.8672936 (epoch)
+2025-10-28 04:23:11,869 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625396.8672936
+2025-10-28 04:23:11,870 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625396.8672936
+2025-10-28 04:23:17,872 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:24:21,481 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:24:21,606 INFO Login exitoso para 'admin'
+2025-10-28 04:24:21,660 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:24:21,663 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:24:21,663 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-28 04:24:21,705 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-28 04:24:21,708 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:24:21,751 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-28 04:24:21,754 WARNING Usuario 'admin' bloqueado hasta 1761625466.751921 (epoch)
+2025-10-28 04:24:21,755 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:24:21,755 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625466.751921
+2025-10-28 04:24:21,756 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625466.751921
+2025-10-28 04:24:21,757 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625466.751921
+2025-10-28 04:24:21,757 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625466.751921
+2025-10-28 04:24:21,758 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625466.751921
+2025-10-28 04:24:21,759 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625466.751921
+2025-10-28 04:24:21,759 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:24:21,762 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:24:21,764 WARNING Usuario 'attacker' bloqueado hasta 1761625466.762609 (epoch)
+2025-10-28 04:24:21,765 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625466.762609
+2025-10-28 04:24:21,765 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625466.762609
+2025-10-28 04:24:27,767 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:24:48,598 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:24:48,783 INFO Login exitoso para 'admin'
+2025-10-28 04:24:48,857 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:24:48,861 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:24:48,861 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-28 04:24:48,922 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-28 04:24:48,925 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:24:48,987 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-28 04:24:48,991 WARNING Usuario 'admin' bloqueado hasta 1761625493.98772 (epoch)
+2025-10-28 04:24:48,991 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:24:48,992 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625493.98772
+2025-10-28 04:24:48,993 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625493.98772
+2025-10-28 04:24:48,994 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625493.98772
+2025-10-28 04:24:48,995 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625493.98772
+2025-10-28 04:24:48,996 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625493.98772
+2025-10-28 04:24:48,996 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625493.98772
+2025-10-28 04:24:48,997 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:24:49,001 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:24:49,004 WARNING Usuario 'attacker' bloqueado hasta 1761625494.0013287 (epoch)
+2025-10-28 04:24:49,005 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625494.0013287
+2025-10-28 04:24:49,005 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625494.0013287
+2025-10-28 04:24:55,007 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:28:18,743 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:28:50,311 WARNING Intento fallido para usuario no existente 'eeff'
+2025-10-28 04:29:15,944 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:29:16,123 INFO Login exitoso para 'admin'
+2025-10-28 04:29:16,196 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:29:16,200 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:29:16,200 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-28 04:29:16,261 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-28 04:29:16,266 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:29:16,327 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-28 04:29:16,332 WARNING Usuario 'admin' bloqueado hasta 1761625761.3277876 (epoch)
+2025-10-28 04:29:16,332 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:29:16,333 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625761.3277876
+2025-10-28 04:29:16,334 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625761.3277876
+2025-10-28 04:29:16,334 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625761.3277876
+2025-10-28 04:29:16,335 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625761.3277876
+2025-10-28 04:29:16,335 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625761.3277876
+2025-10-28 04:29:16,336 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625761.3277876
+2025-10-28 04:29:16,337 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:29:16,340 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:29:16,343 WARNING Usuario 'attacker' bloqueado hasta 1761625761.3404813 (epoch)
+2025-10-28 04:29:16,344 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625761.3404813
+2025-10-28 04:29:16,345 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625761.3404813
+2025-10-28 04:29:22,346 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:29:58,182 INFO db_lockout: habilitado via carga por ruta (/app/code/secure/db_lockout.py)
+2025-10-28 04:29:58,385 INFO Login exitoso para 'admin'
+2025-10-28 04:29:58,465 WARNING Intento fallido para usuario 'admin' (contador=1)
+2025-10-28 04:29:58,469 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:29:58,470 INFO [DEMO] Parámetros de lockout ajustados: MAX_FAILED=3, LOCKOUT_SECONDS=5
+2025-10-28 04:29:58,536 WARNING Intento fallido para usuario 'admin' (contador=2)
+2025-10-28 04:29:58,540 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:29:58,607 WARNING Intento fallido para usuario 'admin' (contador=3)
+2025-10-28 04:29:58,610 WARNING Usuario 'admin' bloqueado hasta 1761625803.6074557 (epoch)
+2025-10-28 04:29:58,611 INFO Login fallido para 'admin': contraseña incorrecta
+2025-10-28 04:29:58,612 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625803.6074557
+2025-10-28 04:29:58,612 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625803.6074557
+2025-10-28 04:29:58,613 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625803.6074557
+2025-10-28 04:29:58,614 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625803.6074557
+2025-10-28 04:29:58,614 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625803.6074557
+2025-10-28 04:29:58,615 INFO Rechazado login para 'admin': cuenta bloqueada hasta 1761625803.6074557
+2025-10-28 04:29:58,616 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:29:58,619 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:29:58,621 WARNING Usuario 'attacker' bloqueado hasta 1761625803.6191657 (epoch)
+2025-10-28 04:29:58,622 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625803.6191657
+2025-10-28 04:29:58,622 INFO Rechazado login para 'attacker': cuenta bloqueada hasta 1761625803.6191657
+2025-10-28 04:30:04,624 WARNING Intento fallido para usuario no existente 'attacker'
+2025-10-28 04:36:41,028 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:37:03,470 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:37:17,998 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:37:28,033 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:37:30,367 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:37:37,934 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:37:37,935 WARNING Bloqueo aplicado a 'fff' hasta 1761626267.9349682
+2025-10-28 04:37:40,020 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:37:44,843 INFO Cuenta 'fff' bloqueada hasta 1761626267.9349682
+2025-10-28 04:39:14,141 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:39:26,553 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:39:48,782 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:39:52,799 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:41:15,199 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:41:20,159 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:41:20,160 WARNING Bloqueo aplicado a 'fff' hasta 1761626490.159893
+2025-10-28 04:41:22,012 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:41:25,719 INFO Cuenta 'fff' bloqueada hasta 1761626490.159893
+2025-10-28 04:41:27,782 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:41:30,613 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:41:37,473 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:41:41,758 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:41:43,786 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:41:47,651 WARNING Intento con usuario no existente 'fff'
+2025-10-28 04:41:47,652 WARNING Bloqueo aplicado a 'fff' hasta 1761626517.651759
+2025-10-28 04:53:26,662 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 04:56:34,009 INFO Contraseña incorrecta para 'admin'
+2025-10-28 04:56:43,793 INFO Login exitoso para 'admin'
+2025-10-28 04:56:54,987 INFO Contraseña incorrecta para 'admin'
+2025-10-28 04:59:44,958 INFO Login exitoso para 'admin'
+2025-10-28 05:02:32,151 INFO Login exitoso para 'admin'
+2025-10-28 05:02:32,931 INFO Login exitoso para 'admin'
+2025-10-28 05:02:42,303 WARNING Intento con usuario no existente 'admi'
+2025-10-28 05:02:43,637 WARNING Intento con usuario no existente 'admi'
+2025-10-28 05:10:37,483 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 05:11:07,162 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:11:07,246 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:15:21,503 WARNING Intento con usuario no existente 'string'
+2025-10-28 05:18:39,721 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 05:19:38,190 WARNING Bloqueo aplicado a 'admin' hasta 1761628788.1899467
+2025-10-28 05:19:38,191 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:19:38,206 INFO Cuenta 'admin' bloqueada hasta 1761628788.1899467
+2025-10-28 05:19:38,221 INFO Cuenta 'admin' bloqueada hasta 1761628788.1899467
+2025-10-28 05:19:38,234 INFO Cuenta 'admin' bloqueada hasta 1761628788.1899467
+2025-10-28 05:19:38,263 INFO Cuenta 'admin' bloqueada hasta 1761628788.1899467
+2025-10-28 05:22:17,453 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 05:23:38,087 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:23:38,165 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:23:38,240 WARNING Bloqueo aplicado a 'admin' hasta 1761629028.2395167
+2025-10-28 05:23:38,240 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:23:38,269 INFO Cuenta 'admin' bloqueada hasta 1761629028.2395167
+2025-10-28 05:26:13,575 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 05:29:04,280 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 05:29:40,839 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:29:40,918 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:29:56,655 WARNING Bloqueo aplicado a 'admin' hasta 1761629406.655406
+2025-10-28 05:29:56,656 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:30:47,585 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:31:19,671 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:32:32,774 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:32:32,853 WARNING Bloqueo aplicado a 'admin' hasta 1761629562.8528144
+2025-10-28 05:32:32,853 INFO Contraseña incorrecta para 'admin'
+2025-10-28 05:32:32,948 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:06:51,405 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:38:27,623 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:41:26,163 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:41:26,406 INFO Login exitoso para 'admin'
+2025-10-28 22:41:26,488 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:41:26,488 INFO [DEMO] Lockout ajustado: 3 intentos, 5 segundos
+2025-10-28 22:41:26,570 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:41:26,655 WARNING Bloqueo aplicado a 'admin' hasta 1761691291.655005
+2025-10-28 22:41:26,656 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:41:26,656 INFO Cuenta 'admin' bloqueada hasta 1761691291.655005
+2025-10-28 22:41:26,657 INFO Cuenta 'admin' bloqueada hasta 1761691291.655005
+2025-10-28 22:41:26,658 INFO Cuenta 'admin' bloqueada hasta 1761691291.655005
+2025-10-28 22:41:26,658 INFO Cuenta 'admin' bloqueada hasta 1761691291.655005
+2025-10-28 22:41:26,659 INFO Cuenta 'admin' bloqueada hasta 1761691291.655005
+2025-10-28 22:41:26,659 INFO Cuenta 'admin' bloqueada hasta 1761691291.655005
+2025-10-28 22:41:26,660 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:41:26,663 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:41:26,664 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:41:26,665 WARNING Bloqueo aplicado a 'attacker' hasta 1761691291.665071
+2025-10-28 22:41:26,665 INFO Cuenta 'attacker' bloqueada hasta 1761691291.665071
+2025-10-28 22:41:32,667 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:43:00,322 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:43:00,584 INFO Login exitoso para 'admin'
+2025-10-28 22:43:00,675 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:43:00,675 INFO [DEMO] Lockout ajustado: 3 intentos, 5 segundos
+2025-10-28 22:43:00,764 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:43:00,864 WARNING Bloqueo aplicado a 'admin' hasta 1761691385.8634381
+2025-10-28 22:43:00,864 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:43:00,865 INFO Cuenta 'admin' bloqueada hasta 1761691385.8634381
+2025-10-28 22:43:00,865 INFO Cuenta 'admin' bloqueada hasta 1761691385.8634381
+2025-10-28 22:43:00,866 INFO Cuenta 'admin' bloqueada hasta 1761691385.8634381
+2025-10-28 22:43:00,867 INFO Cuenta 'admin' bloqueada hasta 1761691385.8634381
+2025-10-28 22:43:00,867 INFO Cuenta 'admin' bloqueada hasta 1761691385.8634381
+2025-10-28 22:43:00,867 INFO Cuenta 'admin' bloqueada hasta 1761691385.8634381
+2025-10-28 22:43:00,868 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:43:00,869 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:43:00,869 WARNING Bloqueo aplicado a 'attacker' hasta 1761691385.8694148
+2025-10-28 22:43:00,870 INFO Cuenta 'attacker' bloqueada hasta 1761691385.8694148
+2025-10-28 22:43:00,870 INFO Cuenta 'attacker' bloqueada hasta 1761691385.8694148
+2025-10-28 22:43:06,872 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:44:02,301 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 17:48:23,237 WARNING Redis no disponible: No module named 'redis'
+2025-10-28 17:48:23,475 INFO Login exitoso para 'admin'
+2025-10-28 17:48:23,555 INFO Contraseña incorrecta para 'admin'
+2025-10-28 17:48:23,556 INFO [DEMO] Lockout ajustado: 3 intentos, 5 segundos
+2025-10-28 17:48:23,640 INFO Contraseña incorrecta para 'admin'
+2025-10-28 17:48:23,718 WARNING Bloqueo aplicado a 'admin' hasta 1761691708.7181492
+2025-10-28 17:48:23,718 INFO Contraseña incorrecta para 'admin'
+2025-10-28 17:48:23,718 INFO Cuenta 'admin' bloqueada hasta 1761691708.7181492
+2025-10-28 17:48:23,718 INFO Cuenta 'admin' bloqueada hasta 1761691708.7181492
+2025-10-28 17:48:23,718 INFO Cuenta 'admin' bloqueada hasta 1761691708.7181492
+2025-10-28 17:48:23,718 INFO Cuenta 'admin' bloqueada hasta 1761691708.7181492
+2025-10-28 17:48:23,718 INFO Cuenta 'admin' bloqueada hasta 1761691708.7181492
+2025-10-28 17:48:23,718 INFO Cuenta 'admin' bloqueada hasta 1761691708.7181492
+2025-10-28 17:48:23,718 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 17:48:23,718 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 17:48:23,718 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 17:48:23,718 WARNING Bloqueo aplicado a 'attacker' hasta 1761691708.7189171
+2025-10-28 17:48:23,718 INFO Cuenta 'attacker' bloqueada hasta 1761691708.7189171
+2025-10-28 17:48:29,719 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:50:18,927 WARNING Intento con usuario no existente 'fff'
+2025-10-28 22:50:21,612 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:50:26,941 WARNING Intento con usuario no existente 'fff'
+2025-10-28 22:50:31,668 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:50:37,273 INFO Login exitoso para 'admin'
+2025-10-28 22:50:39,320 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:50:46,216 WARNING Intento con usuario no existente 'fff'
+2025-10-28 22:50:46,217 WARNING Bloqueo aplicado a 'fff' hasta 1761691856.2170632
+2025-10-28 22:50:48,547 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:50:53,188 INFO Cuenta 'fff' bloqueada hasta 1761691856.2170632
+2025-10-28 22:51:30,192 INFO Redis detectado y habilitado para persistencia de lockout
+2025-10-28 22:51:30,440 INFO Login exitoso para 'admin'
+2025-10-28 22:51:30,526 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:51:30,526 INFO [DEMO] Lockout ajustado: 3 intentos, 5 segundos
+2025-10-28 22:51:30,611 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:51:30,695 WARNING Bloqueo aplicado a 'admin' hasta 1761691895.6952558
+2025-10-28 22:51:30,696 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:51:30,696 INFO Cuenta 'admin' bloqueada hasta 1761691895.6952558
+2025-10-28 22:51:30,697 INFO Cuenta 'admin' bloqueada hasta 1761691895.6952558
+2025-10-28 22:51:30,697 INFO Cuenta 'admin' bloqueada hasta 1761691895.6952558
+2025-10-28 22:51:30,697 INFO Cuenta 'admin' bloqueada hasta 1761691895.6952558
+2025-10-28 22:51:30,698 INFO Cuenta 'admin' bloqueada hasta 1761691895.6952558
+2025-10-28 22:51:30,698 INFO Cuenta 'admin' bloqueada hasta 1761691895.6952558
+2025-10-28 22:51:30,698 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:51:30,699 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:51:30,700 WARNING Bloqueo aplicado a 'attacker' hasta 1761691895.6998208
+2025-10-28 22:51:30,700 INFO Cuenta 'attacker' bloqueada hasta 1761691895.6998208
+2025-10-28 22:51:30,701 INFO Cuenta 'attacker' bloqueada hasta 1761691895.6998208
+2025-10-28 22:51:36,702 WARNING Intento con usuario no existente 'attacker'
+2025-10-28 22:52:41,686 INFO Contraseña incorrecta para 'admin'
+2025-10-28 22:52:41,798 INFO Login exitoso para 'admin'
